@@ -2,10 +2,8 @@
 
 A new Flutter project with simple functionality called lucky winner. 
 
-## Video Demo
-<video width="768" height="1584" controls>
-  <source src="demo.m4v" type="video/mp4">
-</video>   
+## Demo
+![](demo.gif)
 
 
 ## How to run
