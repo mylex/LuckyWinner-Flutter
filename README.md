@@ -3,13 +3,14 @@
 A new Flutter project with simple functionality called lucky winner. 
 
 ## Video Demo
-
-![](demo.mov)   
+<video width="768" height="1584" controls>
+  <source src="demo.m4v" type="video/mp4">
+</video>   
 
 
 ## How to run
-  [] Clone the repository
-  [] run ```flutter run```
+  - Clone the repository
+  - Execute: ` flutter run `
 
 
 ## Flutter
